@@ -4,7 +4,10 @@ Discovery of Boston Airbnb Dataset
 
 In this Reposity you will find the following steps;
 
-
+Questions Throughout this section
+1. What are the most efficient columns/features on the price in Boston City?
+2. Trying to predict the price of Airbnb’s in Boston City ?
+3. What is the availability by daily, weekly, monthly in Boston City ?
 
 
 *Importing libraries
@@ -26,3 +29,4 @@ In this Reposity you will find the following steps;
 *Focusing on 'Availability' column
 *Having some statistic study by day,week,month on Availability column in Calendar dataset.
 
+https://medium.com/@fuatkara94/boston-airbnb-data-statistic-isnt-interesting-to-you-6a8d5bd5d40a
